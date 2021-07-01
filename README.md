@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/web-push-libs/web-push-php.svg?branch=master)](https://travis-ci.org/web-push-libs/web-push-php)
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/d60e8eea-aea1-4739-8ce0-a3c3c12c6ccf/mini.png)](https://insight.sensiolabs.com/projects/d60e8eea-aea1-4739-8ce0-a3c3c12c6ccf)
 
-WebPush can be used to send notifications to endpoints which server delivers Web Push notifications as described in 
+WebPush can be used for send notifications to endpoints which server delivers Web Push notifications as described in 
 the [Web Push protocol](https://tools.ietf.org/html/draft-thomson-webpush-protocol-00).
 As it is standardized, you don't have to worry about what server type it relies on.
 
